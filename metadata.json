@@ -1,0 +1,6 @@
+{
+  "name": "Style Hunt Men's Wear",
+  "description": "Showroom catalog and official price list for Style Hunt Men's Wear Gurgaon showroom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

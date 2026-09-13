@@ -1,0 +1,379 @@
+{
+  "settings": {
+    "shopName": "Style Hunt Men's Wear",
+    "brandDomain": "stylehuntwears.com",
+    "tagline": "Exclusive Men's Denim, Casuals, Pants & Contemporary Streetwear",
+    "address": {
+      "shopNo": "157/9",
+      "building": "Shiv Puri",
+      "street": "Behind Aryan Hospital, Opp. Parnami Bhawan",
+      "landmark": "Behind Aryan Hospital, Opp. Parnami Bhawan",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "pincode": "122001"
+    },
+    "contactPhone": "+91 92133 46331",
+    "secondaryPhone": "+91 99532 16331",
+    "whatsappNumber": "9213346331",
+    "contactEmail": "stylehuntmenswear@gmail.com",
+    "openingHours": "10:30 AM – 09:30 PM (Mon – Sun)",
+    "gstin": "07AAACS1234F1Z8",
+    "upiId": "stylehunt@okhdfcbank",
+    "upiQrImageUrl": "",
+    "announcementText": "🔥 STORE RATES: Jeans ₹600+ • Trouser ₹600 • Jogger ₹550 • Lycra Pant ₹600 • Shirt ₹400 • T-Shirt ₹300 • Lower ₹350 • Shorts ₹350 | Visit 157/9 Shiv Puri, Gurgaon"
+  },
+  "products": [
+    {
+      "id": "sh-jeans-01",
+      "sku": "SH-JNS-01",
+      "name": "Classic Whisker Wash Slim-Fit Jeans",
+      "category": "jeans",
+      "categoryLabel": "Jeans",
+      "subCategory": "Slim Fit",
+      "price": 600,
+      "originalPrice": 1199,
+      "discountPercent": 50,
+      "costPrice": 350,
+      "description": "Premium heavy-duty stretch denim engineered with authentic whisker wash. Tailored slim fit through thigh and calf for modern comfort and all-day movement.",
+      "fabric": "98% Combed Cotton, 2% Spandex",
+      "fit": "Slim Tapered Fit",
+      "color": "Vintage Mid Blue",
+      "images": [
+        "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1582552938357-32b906df40cb?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "sizes": [
+        { "size": "28", "stock": 8 },
+        { "size": "30", "stock": 15 },
+        { "size": "32", "stock": 12 },
+        { "size": "34", "stock": 10 },
+        { "size": "36", "stock": 6 },
+        { "size": "38", "stock": 4 }
+      ],
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "rating": 4.9,
+      "reviewsCount": 112
+    },
+    {
+      "id": "sh-jeans-02",
+      "sku": "SH-JNS-02",
+      "name": "Dark Indigo Comfort Stretch Jeans",
+      "category": "jeans",
+      "categoryLabel": "Jeans",
+      "subCategory": "Straight Fit",
+      "price": 650,
+      "originalPrice": 1299,
+      "discountPercent": 50,
+      "costPrice": 380,
+      "description": "Deep dark indigo denim with subtle hand buffing. Features durable reinforced pocket lining, brass rivets, and flexible stretch fabric.",
+      "fabric": "99% Cotton, 1% Elastane",
+      "fit": "Comfort Straight Fit",
+      "color": "Dark Indigo Navy",
+      "images": [
+        "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1604176354204-9268737828e4?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "sizes": [
+        { "size": "28", "stock": 6 },
+        { "size": "30", "stock": 10 },
+        { "size": "32", "stock": 14 },
+        { "size": "34", "stock": 8 },
+        { "size": "36", "stock": 5 },
+        { "size": "38", "stock": 3 }
+      ],
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "rating": 4.8,
+      "reviewsCount": 78
+    },
+    {
+      "id": "sh-trouser-01",
+      "sku": "SH-TRS-01",
+      "name": "Men's Formal & Casual Cotton Trouser",
+      "category": "trousers",
+      "categoryLabel": "Trouser",
+      "subCategory": "Flat Front",
+      "price": 600,
+      "originalPrice": 1199,
+      "discountPercent": 50,
+      "costPrice": 350,
+      "description": "Versatile flat-front cotton trouser tailored for office wear and smart-casual outings. Wrinkle-resistant finish with comfortable mid-rise waistband.",
+      "fabric": "Poly-Viscose Cotton Twill",
+      "fit": "Smart Regular Fit",
+      "color": "Khaki Beige & Charcoal",
+      "images": [
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "sizes": [
+        { "size": "30", "stock": 12 },
+        { "size": "32", "stock": 18 },
+        { "size": "34", "stock": 14 },
+        { "size": "36", "stock": 9 },
+        { "size": "38", "stock": 5 }
+      ],
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "rating": 4.8,
+      "reviewsCount": 96
+    },
+    {
+      "id": "sh-jogger-01",
+      "sku": "SH-JGR-01",
+      "name": "Heavy Cotton Cargo Jogger",
+      "category": "joggers",
+      "categoryLabel": "Jogger",
+      "subCategory": "Cargo Jogger",
+      "price": 550,
+      "originalPrice": 999,
+      "discountPercent": 45,
+      "costPrice": 320,
+      "description": "Street-style cargo jogger equipped with spacious dual utility side pockets, elastic drawcord waist, and ribbed ankle cuffs. Soft, breathable loopknit cotton fleece.",
+      "fabric": "100% Loopknit Cotton Fleece",
+      "fit": "Tapered Cargo Fit",
+      "color": "Olive Army Green",
+      "images": [
+        "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "sizes": [
+        { "size": "S", "stock": 8 },
+        { "size": "M", "stock": 16 },
+        { "size": "L", "stock": 20 },
+        { "size": "XL", "stock": 14 },
+        { "size": "XXL", "stock": 6 }
+      ],
+      "isBestSeller": true,
+      "isNewArrival": true,
+      "rating": 4.9,
+      "reviewsCount": 142
+    },
+    {
+      "id": "sh-lycra-01",
+      "sku": "SH-LYC-01",
+      "name": "4-Way Stretch Comfort Lycra Pant",
+      "category": "lycra",
+      "categoryLabel": "Lycra Pant",
+      "subCategory": "4-Way Stretch",
+      "price": 600,
+      "originalPrice": 1199,
+      "discountPercent": 50,
+      "costPrice": 360,
+      "description": "Engineered with 4-way super stretch lycra fabric that flexes with every movement. Ultra-comfortable for work, driving, travel, and daily wear.",
+      "fabric": "88% Cotton, 12% Spandex High-Stretch Lycra",
+      "fit": "Slim Ankle Cut",
+      "color": "Jet Black & Slate Grey",
+      "images": [
+        "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "sizes": [
+        { "size": "28", "stock": 7 },
+        { "size": "30", "stock": 14 },
+        { "size": "32", "stock": 20 },
+        { "size": "34", "stock": 15 },
+        { "size": "36", "stock": 8 },
+        { "size": "38", "stock": 4 }
+      ],
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "rating": 4.9,
+      "reviewsCount": 165
+    },
+    {
+      "id": "sh-shirt-01",
+      "sku": "SH-SHT-01",
+      "name": "Men's Casual & Formal Cotton Shirt",
+      "category": "shirts",
+      "categoryLabel": "Shirt",
+      "subCategory": "Cotton Casual / Formal",
+      "price": 400,
+      "originalPrice": 799,
+      "discountPercent": 50,
+      "costPrice": 240,
+      "description": "Pure cotton tailored shirt featuring crisp collar construction and comfortable breathable weave. Perfect pairing with jeans, trousers, and lycra pants.",
+      "fabric": "100% Pure Combed Cotton",
+      "fit": "Tailored Slim Fit",
+      "color": "Sky Blue & Classic White",
+      "images": [
+        "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1603252109303-2751441dd157?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "sizes": [
+        { "size": "S", "stock": 10 },
+        { "size": "M", "stock": 18 },
+        { "size": "L", "stock": 22 },
+        { "size": "XL", "stock": 15 },
+        { "size": "XXL", "stock": 8 }
+      ],
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "rating": 4.8,
+      "reviewsCount": 134
+    },
+    {
+      "id": "sh-tshirt-01",
+      "sku": "SH-TSH-01",
+      "name": "Men's Premium Bio-Washed Cotton T-Shirt",
+      "category": "tshirts",
+      "categoryLabel": "T-Shirt",
+      "subCategory": "Round Neck",
+      "price": 300,
+      "originalPrice": 599,
+      "discountPercent": 50,
+      "costPrice": 170,
+      "description": "Super-combed bio-washed cotton t-shirt with ribbed crew neck. Pre-shrunk fabric ensures no color bleeding or stretching after machine wash.",
+      "fabric": "100% Super-Combed Bio-Washed Cotton (220 GSM)",
+      "fit": "Regular Fit",
+      "color": "Black / White / Melange Grey",
+      "images": [
+        "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "sizes": [
+        { "size": "S", "stock": 14 },
+        { "size": "M", "stock": 25 },
+        { "size": "L", "stock": 30 },
+        { "size": "XL", "stock": 20 },
+        { "size": "XXL", "stock": 10 }
+      ],
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "rating": 4.9,
+      "reviewsCount": 220
+    },
+    {
+      "id": "sh-lower-01",
+      "sku": "SH-LWR-01",
+      "name": "Everyday Comfort Track Lower",
+      "category": "lowers",
+      "categoryLabel": "Lower",
+      "subCategory": "Track Lower",
+      "price": 350,
+      "originalPrice": 699,
+      "discountPercent": 50,
+      "costPrice": 200,
+      "description": "Daily comfort track lower with dual zippered side pockets, soft elastic waistband, and internal drawstring. Ideal for morning walk, gym, and relaxing at home.",
+      "fabric": "Comfort Stretch Poly-Cotton Loopknit",
+      "fit": "Straight Leg Comfort Fit",
+      "color": "Anthracite Grey & Navy Blue",
+      "images": [
+        "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "sizes": [
+        { "size": "S", "stock": 10 },
+        { "size": "M", "stock": 20 },
+        { "size": "L", "stock": 24 },
+        { "size": "XL", "stock": 16 },
+        { "size": "XXL", "stock": 8 }
+      ],
+      "isBestSeller": true,
+      "isNewArrival": true,
+      "rating": 4.8,
+      "reviewsCount": 89
+    },
+    {
+      "id": "sh-shorts-01",
+      "sku": "SH-SRT-01",
+      "name": "Men's Casual Summer Cotton Shorts",
+      "category": "shorts",
+      "categoryLabel": "Shorts",
+      "subCategory": "Cotton Shorts",
+      "price": 350,
+      "originalPrice": 699,
+      "discountPercent": 50,
+      "costPrice": 200,
+      "description": "Breathable lightweight cotton shorts with side pockets and elastic drawstring waist. Built for maximum comfort in hot summers and everyday leisure.",
+      "fabric": "100% Breathable Cotton Twill",
+      "fit": "Relaxed Above-Knee Fit",
+      "color": "Khaki Tan & Olive",
+      "images": [
+        "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1562157873-818bc0726f68?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?q=80&w=1000&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1562157873-818bc0726f68?q=80&w=1000&auto=format&fit=crop"
+      ],
+      "sizes": [
+        { "size": "28", "stock": 8 },
+        { "size": "30", "stock": 15 },
+        { "size": "32", "stock": 18 },
+        { "size": "34", "stock": 12 },
+        { "size": "36", "stock": 6 }
+      ],
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "rating": 4.7,
+      "reviewsCount": 65
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1001",
+      "orderNumber": "SHW-8042",
+      "createdAt": "2026-09-13T10:15:00Z",
+      "customer": {
+        "fullName": "Amit Sharma",
+        "email": "amit.sharma99@gmail.com",
+        "phone": "+91 98111 22334",
+        "address": {
+          "fullName": "Amit Sharma",
+          "phone": "+91 98111 22334",
+          "street": "H-44, DLF Phase 1",
+          "landmark": "Near Sikanderpur Metro",
+          "city": "Gurgaon",
+          "state": "Haryana",
+          "pincode": "122002"
+        }
+      },
+      "items": [
+        {
+          "productId": "sh-jeans-01",
+          "sku": "SH-JNS-01",
+          "name": "Classic Whisker Wash Slim-Fit Jeans",
+          "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&w=1000&auto=format&fit=crop",
+          "price": 600,
+          "size": "32",
+          "quantity": 1
+        },
+        {
+          "productId": "sh-shirt-01",
+          "sku": "SH-SHT-01",
+          "name": "Men's Casual & Formal Cotton Shirt",
+          "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?q=80&w=1000&auto=format&fit=crop",
+          "price": 400,
+          "size": "L",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 1000,
+      "shipping": 0,
+      "discount": 0,
+      "total": 1000,
+      "paymentMethod": "upi",
+      "paymentStatus": "paid",
+      "paymentDetails": {
+        "transactionId": "UPI-SH-99281726",
+        "upiId": "amit@okhdfcbank"
+      },
+      "orderStatus": "confirmed"
+    }
+  ]
+}
